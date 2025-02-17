@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boysPage{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:60px;
+    flex-wrap: wrap;
+    margin: 30px auto;
+}
