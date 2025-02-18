@@ -8,7 +8,7 @@ const BoysPage = () => {
   const [ students, setStudents ] = useState([])
 
   const getStudents = async () => {
-    const response = await fetch("./src/students.json", {
+    const response = await fetch("/students.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
