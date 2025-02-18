@@ -3,114 +3,114 @@
         "id": "1",
         "name": "Темирлан",
         "phrase": "......",
-        "url": "./src/imgs/temirlan.jpg "
+        "url": "./public/imgs/temirlan.jpg "
     },
     {
         "id": "2",
         "name": "Нурсеит",
         "phrase": "5 раз в день, 156000",
-        "url": "./src/imgs/nurseit.jpg "
+        "url": "./public/imgs/nurseit.jpg "
     },
     {
         "id": "3",
         "name": "Эрмек",
         "phrase": "Абаюдна",
-        "url": "./src/imgs/ermek.jpg "
+        "url": "./public/imgs/ermek.jpg "
     },
     {
         "id": "4",
         "name": "Данияр",
         "phrase": "Агай, переменага чыгабызбы?",
-        "url": "./src/imgs/daniyar.jpg "
+        "url": "./public/imgs/daniyar.jpg "
     },
     {
         "id": "5",
         "name": "Охунжон",
         "phrase": "Ахун, сенсиңби",
-        "url": "./src/imgs/ohunjon.jpg "
+        "url": "./public/imgs/ohunjon.jpg "
     },
     {
         "id": "6",
         "name": "Дастан",
         "phrase": "Бля надо б меньше материться, блять",
-        "url": "./src/imgs/dastan.jpg "
+        "url": "./public/imgs/dastan.jpg "
     },
     {
         "id": "7",
         "name": "Нурсултан к",
         "phrase": "Дауни, Ошские сила",
-        "url": "./src/imgs/nursKUB.jpg "
+        "url": "./public/imgs/nursKUB.jpg "
     },
     {
         "id": "8",
         "name": "Байтенир",
         "phrase": "Доброе утро или добрый день",
-        "url": "./src/imgs/baitenir.jpg "
+        "url": "./public/imgs/baitenir.jpg "
     },
     {
         "id": "9",
         "name": "Рамис Ш",
         "phrase": "Качан футбол?",
-        "url": "./src/imgs/temirlan.jpg "
+        "url": "./public/imgs/temirlan.jpg "
     },
     {
         "id": "10",
         "name": "Нуржигит",
         "phrase": "Отметьте меня пж",
-        "url": "./src/imgs/nurjigin.jpg "
+        "url": "./public/imgs/nurjigin.jpg "
     },
     {
         "id": "11",
         "name": "Самир",
         "phrase": "Пуэр чай будешь? Вот бы мороз -20 -25",
-        "url": "./src/imgs/temirlan.jpg "
+        "url": "./public/imgs/temirlan.jpg "
     },
     {
         "id": "12",
         "name": "Кэмран",
         "phrase": "Саботаж",
-        "url": "./src/imgs/kemran.jpg "
+        "url": "./public/imgs/kemran.jpg "
     },
     {
         "id": "13",
         "name": "Кайрат",
         "phrase": "Схуяли",
-        "url": "./src/imgs/kairat.jpg "
+        "url": "./public/imgs/kairat.jpg "
     },
     {
         "id": "14",
         "name": "Залкар",
         "phrase": "Танапис кылсакчы, 5 мүнөт?",
-        "url": "./src/imgs/zalkar.png "
+        "url": "./public/imgs/zalkar.png "
     },
     {
         "id": "15",
         "name": "Эге Аби",
         "phrase": "Түркчө жакшы билет экен",
-        "url": "./src/imgs/ege.jpg "
+        "url": "./public/imgs/ege.jpg "
     },
     {
         "id": "16",
         "name": "Актан",
         "phrase": "Ты приуныла. Так прыгни в окно",
-        "url": "./src/imgs/aktan.jpg "
+        "url": "./public/imgs/aktan.jpg "
     },
     {
         "id": "17",
         "name": "Алинур",
         "phrase": "Э, ХАЙУАН, 09 сила",
-        "url": "./src/imgs/alinur.png "
+        "url": "./public/imgs/alinur.png "
     },
     {
         "id": "18",
         "name": "Амантур",
         "phrase": "Элдин баласы^2",
-        "url": "./src/imgs/amantur.jpg "
+        "url": "./public/imgs/amantur.jpg "
     },
     {
         "id": "19",
         "name": "Рамо",
         "phrase": "Я уснул оказывается",
-        "url": "./src/imgs/ramo.jpg "
+        "url": "./public/imgs/ramo.jpg "
     }
 ]
